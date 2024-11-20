@@ -3,16 +3,26 @@ impl: 'https://github.com/arti5an/blendos-tracks/raw/main'
 track: 'tools'
 
 packages:
+  - 'pipewire-jack'
+  - 'pipewire-pulse'
   - 'lemurs'
   - 'waybar'
   - 'swaylock'
   - 'swaybg'
+  - 'dmenu'
   - 'wmenu'
   - 'lxqt-policykit'
   - 'gnome-keyring'
+  - 'firefox'
+  - 'qutebrowser'
+  - 'swayimg'
+  - 'gwenview'
 
 aur-packages:
   - 'swayfx'
 
 services:
   - 'lemurs'
+  - 'cups'
+  - 'bluetooth'
+  - 'NetworkManager'
