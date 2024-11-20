@@ -1,0 +1,16 @@
+impl: 'https://github.com/arti5an/blendos-tracks/raw/main'
+
+track: 'tools'
+
+packages:
+  - 'lemurs'
+  - 'sway'
+  - 'waybar'
+  - 'swaylock'
+  - 'swaybg'
+  - 'rofi'
+  - 'lxqt-policykit'
+  - 'gnome-keyring'
+
+services:
+  - 'lemurs'

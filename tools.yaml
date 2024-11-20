@@ -1,0 +1,12 @@
+impl: 'https://github.com/arti5an/blendos-tracks/raw/main'
+
+track: 'blendos-base'
+
+packages:
+  - 'bluez-utils'
+  - 'ttf-firacode-nerd'
+  - 'noto-fonts-emoji'
+  - 'alacritty'
+  - 'foot'
+  - 'wezterm'
+  - 'neovim'
