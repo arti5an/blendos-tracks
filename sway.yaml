@@ -4,13 +4,15 @@ track: 'tools'
 
 packages:
   - 'lemurs'
-  - 'sway'
   - 'waybar'
   - 'swaylock'
   - 'swaybg'
   - 'rofi'
   - 'lxqt-policykit'
   - 'gnome-keyring'
+
+aur-packages:
+  - 'swayfx'
 
 services:
   - 'lemurs'
